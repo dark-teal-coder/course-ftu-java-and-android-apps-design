@@ -1,0 +1,5 @@
+  public Boat() {
+    seat = 2;
+    color = "white";
+    System.out.println("boat created.");
+  }

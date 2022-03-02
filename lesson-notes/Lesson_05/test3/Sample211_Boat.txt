@@ -1,0 +1,3 @@
+  public static void showTotal() {
+    System.out.println("Total no. of boat(s): " + count);
+  }

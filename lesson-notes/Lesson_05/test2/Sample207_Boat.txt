@@ -1,0 +1,9 @@
+  public void setSeatColor(int n, String c) {
+    if (n > 0 && n < 99){
+      seat = n;
+      color = c;
+    } else {
+      System.out.println("[" + n + "] <-invalid seat data.");
+      System.out.println("cannot change seat data.");
+    }
+  }

@@ -1,0 +1,5 @@
+  public Boat(int n, String c) {
+    seat = n;
+    color = c;
+    System.out.println("Set seat to:" + seat + ", set color to:" + color);
+  }
