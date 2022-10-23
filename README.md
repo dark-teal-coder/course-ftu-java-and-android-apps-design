@@ -1,4 +1,6 @@
-<!-- This is a README file for an instuctor-led course. -->
+<!-- README file for instuctor-led courses -->
+
+# FTU Java Programming and Android Apps Design
 
 ## Repository Description
 
